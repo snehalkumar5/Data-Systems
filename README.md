@@ -10,6 +10,7 @@ Features added:
 5. Two phase merge sorting
 
 ## Instructions
+```
 cd src
 ```
 To compile
